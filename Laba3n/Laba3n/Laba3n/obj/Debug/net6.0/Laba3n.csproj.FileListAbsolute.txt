@@ -1,0 +1,15 @@
+D:\univer3\ооп\Laba3n\Laba3n\Laba3n\bin\Debug\net6.0\Laba3n.exe
+D:\univer3\ооп\Laba3n\Laba3n\Laba3n\bin\Debug\net6.0\Laba3n.deps.json
+D:\univer3\ооп\Laba3n\Laba3n\Laba3n\bin\Debug\net6.0\Laba3n.runtimeconfig.json
+D:\univer3\ооп\Laba3n\Laba3n\Laba3n\bin\Debug\net6.0\Laba3n.dll
+D:\univer3\ооп\Laba3n\Laba3n\Laba3n\bin\Debug\net6.0\Laba3n.pdb
+D:\univer3\ооп\Laba3n\Laba3n\Laba3n\obj\Debug\net6.0\Laba3n.csproj.AssemblyReference.cache
+D:\univer3\ооп\Laba3n\Laba3n\Laba3n\obj\Debug\net6.0\Laba3n.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer3\ооп\Laba3n\Laba3n\Laba3n\obj\Debug\net6.0\Laba3n.AssemblyInfoInputs.cache
+D:\univer3\ооп\Laba3n\Laba3n\Laba3n\obj\Debug\net6.0\Laba3n.AssemblyInfo.cs
+D:\univer3\ооп\Laba3n\Laba3n\Laba3n\obj\Debug\net6.0\Laba3n.csproj.CoreCompileInputs.cache
+D:\univer3\ооп\Laba3n\Laba3n\Laba3n\obj\Debug\net6.0\Laba3n.dll
+D:\univer3\ооп\Laba3n\Laba3n\Laba3n\obj\Debug\net6.0\refint\Laba3n.dll
+D:\univer3\ооп\Laba3n\Laba3n\Laba3n\obj\Debug\net6.0\Laba3n.pdb
+D:\univer3\ооп\Laba3n\Laba3n\Laba3n\obj\Debug\net6.0\Laba3n.genruntimeconfig.cache
+D:\univer3\ооп\Laba3n\Laba3n\Laba3n\obj\Debug\net6.0\ref\Laba3n.dll
